@@ -1,0 +1,7 @@
+img{
+    border: 5px solid navy;
+    box-shadow: 10px 10px 5px tomato;
+}
+*{
+    margin: 20px;
+}
